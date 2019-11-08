@@ -14,7 +14,4 @@ This Project Contains:-
         cardno varchar(20),pin int, atmservice varchar(5),mobilebankingservice varchar(5),chequeservice varchar(5),
         internetservice varchar(5),emailservice varchar(5),estateservice varchar(5),balance double
 
-The databases for this project has been created directly from the MYSQL.
-Only CRUD operations have been performed in this project.
-  
       
